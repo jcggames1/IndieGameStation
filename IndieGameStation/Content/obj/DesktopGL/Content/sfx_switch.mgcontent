@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/conne/source/repos/IndieGameStation/IndieGameStation/Content/sfx_switch.wav</SourceFile>
+  <SourceTime>2009-08-14T18:21:38-05:00</SourceTime>
+  <DestFile>C:/Users/conne/source/repos/IndieGameStation/IndieGameStation/Content/bin/DesktopGL/Content/sfx_switch.xnb</DestFile>
+  <DestTime>2020-12-30T20:22:23.6080544-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
